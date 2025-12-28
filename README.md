@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Currently working as a software engineer
 - Interested in game development
-- Participating in a game development project as a programmer (making a game with a team)
+- Participating in a gamedev educational project (making a game with a team)
 - Living and working in Saint Petersburg, Russia
 
 ## Skills overview (with skill levels)
@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 - OOP (intermediate)
 - Algorithms and data structures (intermediate)
 - Math (intermediate)
-- English (intermediate - B2. Advanced for listening and reading, junior for speaking)
+- English (intermediate - B2)
+  - Listening and reading - advanced
+  - Speaking - probably junior
 
 ## Pet-projects overview:
 - [AngryCube](https://github.com/Gregory-hub/AngryCube)
