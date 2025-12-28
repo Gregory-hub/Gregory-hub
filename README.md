@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 
 ## Skills overview (with skill levels)
 
-#### Languages
+#### 💻 Languages
 - C++ (intermediate)
 - Python (once advanced, now junior)
 - C#, Java, SQL, MATLAB, HTML, CSS (junior)
 
-#### Tools
+#### 💽 Tools 
 - Unreal Engine 5 with C++ (intermediate)
 - IDE: Rider, Visual Studio, VS Code, Qt Creator (intermediate)
 - AI: ChatGPT, DeepSeek and others (intermediate)
 - Databases: PostgreSQL, SQLite, T-SQL (junior)
 - OpenGL (junior)
 
-#### Other skills
+#### 📺 Other skills
 - OOP (intermediate)
 - Algorithms and data structures (intermediate)
 - Math (intermediate)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   
 - [Blog project](https://github.com/Gregory-hub/blog_project_upgraded)
 
-  A site for writting and reading blogs. Developed by a team with a web designer _(made with Python and Django framework)_
+  A site for writing and reading blogs. Developed in a team with a web designer _(made with Python and Django framework)_
 
 - [University schedule bot](https://github.com/Gregory-hub/UniversityScheduleBot)
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 - [Ajax weather](https://github.com/Gregory-hub/ajax_weather)
 
-  Web app for showing current weather in a chosen city _(made with python and Django framework)_
+  Web app for showing current weather in a chosen city _(made with Python and Django framework)_
 
 - [Rememberancer bot](https://github.com/Gregory-hub/rememberancer_bot)
 
