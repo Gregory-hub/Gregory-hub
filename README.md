@@ -53,7 +53,15 @@ Here are some ideas to get you started:
 
 - [Unhero](https://github.com/Makintosh365/Game011125)
 
-  A game where you must kill main character. Gamejam project _(made with Unreal Engine 5 and C++)_
+  _Gamejam project_
+  
+  A game where you must kill main character _(made with Unreal Engine 5 and C++)_
+
+- [Murrwood](https://github.com/XIII-Pixels/Lords-of-the-Frontiers) _(in development)_
+
+  _Team project_
+
+  A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5 and C++)_
   
 - [Chess UDP](https://github.com/Gregory-hub/chess_UDP)
 
