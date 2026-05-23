@@ -15,37 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working as a software engineer
-- Interested in game development
-- Participating in a gamedev educational project (making a game with a team)
+- Software engineer/architect
+- Game developer (including as a hobby)
 - Living and working in Saint Petersburg, Russia
 
 ## Skills overview (with skill levels)
 
 #### 💻 Languages
 - C++ (intermediate)
-- Python (once advanced, now junior)
+- Python (intermediate, not currently primary language)
 - C#, Java, SQL, MATLAB, HTML, CSS (junior)
 
 #### 💽 Tools 
 - Unreal Engine 5 with C++ (intermediate)
 - IDE: Rider, Visual Studio, VS Code, Qt Creator (intermediate)
-- AI: ChatGPT, DeepSeek and others (intermediate)
+- Source control: Git, Github (intermediate)
 - Databases: PostgreSQL, SQLite, T-SQL (junior)
 - OpenGL (junior)
+- Management: Obsidian, Github Projects
 
 #### 📺 Other skills
 - OOP (intermediate)
 - Algorithms and data structures (intermediate)
-- Math (intermediate)
+- Mathematics: linear algebra, calculus, discrete math (intermediate)
 - English (intermediate - B2)
-  - Listening and reading - advanced
-  - Speaking - probably junior
+  - Listening and reading (advanced)
+  - Speaking (junior+)
 
 ## Pet-projects overview:
 - [AngryCube](https://github.com/Gregory-hub/AngryCube)
 
   A game where you use a catapult to destroy fortifications _(made with C++ and OpenGL)_
+
+- [Murrwood](https://github.com/XIII-Pixels/Lords-of-the-Frontiers) _(in development)_
+
+  _Team project_
+
+  A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5 and C++)_
   
 - [Autobattler](https://github.com/Gregory-hub/Autobattler)
 
@@ -57,12 +63,6 @@ Here are some ideas to get you started:
   
   A game where you must kill main character _(made with Unreal Engine 5 and C++)_
 
-- [Murrwood](https://github.com/XIII-Pixels/Lords-of-the-Frontiers) _(in development)_
-
-  _Team project_
-
-  A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5 and C++)_
-  
 - [Chess UDP](https://github.com/Gregory-hub/chess_UDP)
 
   A chess desktop app for playing over a private network _(made with Python)_
