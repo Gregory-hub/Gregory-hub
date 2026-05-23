@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Software engineer/architect
-- Game developer (including as a hobby)
-- Living and working in Saint Petersburg, Russia
+- Software Engineer (C++)
+- Game Developer (personal and team projects)
+- Based in Saint Petersburg, Russia
 
 ## Skills overview (with skill levels)
 
