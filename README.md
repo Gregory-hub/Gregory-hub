@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Software Engineer (C++)
-- Game Developer
+- Game Developer (personal and team projects)
 - Based in Saint Petersburg, Russia
 
 ## Skills overview (with skill levels)
