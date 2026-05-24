@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - Mathematics: linear algebra, calculus, discrete math (intermediate)
 - English (intermediate - B2)
   - Listening and reading (advanced)
-  - Speaking (junior+)
+  - Speaking (intermediate)
 
 ## Pet-projects overview:
 - [AngryCube](https://github.com/Gregory-hub/AngryCube)
