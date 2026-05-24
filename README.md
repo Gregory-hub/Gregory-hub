@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - C#, Java, SQL, MATLAB, HTML, CSS (junior)
 
 #### 💽 Tools 
-- Unreal Engine 5 with C++ (intermediate)
+- Unreal Engine 5 (intermediate)
 - IDE: Rider, Visual Studio, VS Code, Qt Creator (intermediate)
 - Source control: Git, Github (intermediate)
 - Databases: PostgreSQL, SQLite, T-SQL (junior)
