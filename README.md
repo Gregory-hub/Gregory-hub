@@ -45,27 +45,43 @@ Here are some ideas to get you started:
 ## Pet-projects overview:
 - [AngryCube](https://github.com/Gregory-hub/AngryCube)
 
-  A game where you use a catapult to destroy fortifications _(made with C++ and OpenGL)_
+  A game inspired by Angry Birds featuring physically accurate catapult and destructible fortifications built on a 2D engine created specifically for this project _(made with C++ and OpenGL)_
 
-- [Murrwood](https://github.com/XIII-Pixels/Lords-of-the-Frontiers) _(in development)_
+- [Murrwood](https://github.com/XIII-Pixels/Lords-of-the-Frontiers)
 
   _Team project_
 
-  A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5 and C++)_
+  A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5)_
   
 - [Autobattler](https://github.com/Gregory-hub/Autobattler)
 
-  An autobattler game _(made with Unreal Engine 5 and C++)_
+  An autobattler game _(made with Unreal Engine 5)_
 
 - [Unhero](https://github.com/Makintosh365/Game011125)
 
   _Gamejam project_
   
-  A game where you must kill main character _(made with Unreal Engine 5 and C++)_
+  A game where you win by killing main character _(made with Unreal Engine 5)_
+
+- [Sudoku solver](https://github.com/Gregory-hub/SudokuSolver)
+
+  An algorithm for solving sudoku _(made with C++)_
+
+- [Bilinear surface](https://github.com/Gregory-hub/BilinearSurface)
+
+  A program for drawing a bilinear surface _(made with C# and Windows Forms)_
+
+- [N body problem](https://github.com/Gregory-hub/n_body_problem)
+
+  Solar system simulation. N body problem approximate calculation _(made with Python)_
 
 - [Chess UDP](https://github.com/Gregory-hub/chess_UDP)
 
   A chess desktop app for playing over a private network _(made with Python)_
+
+- [Chess](https://github.com/Gregory-hub/chess)
+
+  An online chess game _(made with Python, Flask framework and JavaScript)_
   
 - [Blog project](https://github.com/Gregory-hub/blog_project_upgraded)
 
@@ -74,22 +90,6 @@ Here are some ideas to get you started:
 - [University schedule bot](https://github.com/Gregory-hub/UniversityScheduleBot)
 
   A telegram bot for printing university schedule _(made with Java)_
-  
-- [Bilinear surface](https://github.com/Gregory-hub/BilinearSurface)
-
-  A program for drawing a bilinear surface _(made with C# and Windows Forms)_
-
-- [Sudoku solver](https://github.com/Gregory-hub/SudokuSolver)
-
-  An algorithm for solving sudoku _(made with C++)_
-
-- [Chess](https://github.com/Gregory-hub/chess)
-
-  An online chess game _(made with Python, Flask framework and JavaScript)_
-
-- [N body problem](https://github.com/Gregory-hub/n_body_problem)
-
-  Solar system simulation. N body problem approximate calculation _(made with Python)_
 
 - [Ajax weather](https://github.com/Gregory-hub/ajax_weather)
 
