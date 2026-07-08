@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 #### 💽 Tools 
 - Unreal Engine 5 (intermediate)
 - IDE: Rider, Visual Studio, VS Code, Qt Creator (intermediate)
+- AI: Copilot, Cursor, Claude, CharGPT (intermediate)
 - Source control: Git, Github (intermediate)
 - Databases: PostgreSQL, SQLite, T-SQL (junior)
 - OpenGL (junior)
@@ -52,7 +53,11 @@ Here are some ideas to get you started:
   _Team project_
 
   A strategy game about defending cat-elves town against orc-dogs and other creatures _(made with Unreal Engine 5)_
-  
+
+- [Traversal-UE5](https://github.com/Gregory-hub/Traversal-UE5)
+
+  Traversal mechanics: vault and mantle _(made with Unreal Engine 5)_
+
 - [Autobattler](https://github.com/Gregory-hub/Autobattler)
 
   An autobattler game _(made with Unreal Engine 5)_
