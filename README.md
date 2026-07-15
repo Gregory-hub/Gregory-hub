@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 #### 💽 Tools 
 - Unreal Engine 5 (intermediate)
 - IDE: Rider, Visual Studio, VS Code, Qt Creator (intermediate)
-- AI: Copilot, Cursor, Claude, CharGPT (intermediate)
+- AI: Cursor, Claude, ChatGPT (intermediate)
 - Source control: Git, Github (intermediate)
 - Databases: PostgreSQL, SQLite, T-SQL (junior)
 - OpenGL (junior)
