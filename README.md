@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
   Traversal mechanics: vault and mantle _(made with Unreal Engine 5)_
 
+- [Network monitor](https://github.com/Gregory-hub/NetworkMonitor)
+
+  Client-server Qt C++ application: a GUI control server and console device emulators.
+
 - [Autobattler](https://github.com/Gregory-hub/Autobattler)
 
   An autobattler game _(made with Unreal Engine 5)_
