@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 - [Network monitor](https://github.com/Gregory-hub/NetworkMonitor)
 
-  Client-server Qt C++ application: a GUI control server and console device emulators.
+  Client-server application: a GUI control server and console device emulators _(made with QT C++)_
 
 - [Autobattler](https://github.com/Gregory-hub/Autobattler)
 
