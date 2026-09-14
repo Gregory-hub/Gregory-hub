@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Skills overview (with skill levels)
 
 #### 💻 Languages
-- C++ (intermediate)
+- C++ (advanced)
 - Python (intermediate, not currently primary language)
 - C#, Java, SQL, MATLAB, HTML, CSS (junior)
 
